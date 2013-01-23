@@ -1,0 +1,17 @@
+{
+	 "name": "jasir/log-panel",
+	 "description": "Nette Framework Panel showing content of files, typically logs",
+	 "license": "MIT",
+	 "require": {
+		"jasir/file-helpers": "dev-master"
+	 },
+	"autoload": {
+		"classmap": ["/"]
+	 }, 
+	 "authors": [
+		  {
+				"name": "jasir",
+				"email": "sirjarda2@gmail.com"
+		  }
+	 ]
+}
